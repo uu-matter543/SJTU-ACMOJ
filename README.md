@@ -2,7 +2,7 @@
 
 [SJTU ACM Class OnlineJudge](https://acm.sjtu.edu.cn/OnlineJudge/)
 
-访问不了没关系的，参见下面食用方法
+访问不了没关系，参见下面食用方法
 
 本仓库记录一些题解（主要是2025--2026--1学期的作业，有空就回溯一下之前的作业，没空就鸽鸽了）
 
